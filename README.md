@@ -109,7 +109,7 @@ Para la clonación de o descarga de un Repositorio, se siguen los siguientes pas
 
 ### 6. Trabajando con el entorno GIT Bash  
  
-Realizaremos una serie de comandos en el entorno del GIT Bash, de modo Texto desde nuestro PC o WORKSPACE, para operaciones básicas de administración de repositorios  ( configuración de usuario, creación, adicción y demás funciones de acuerdo a nuestro manual o Libro Guía.  
+Realizaremos una serie de comandos en el entorno del GIT Bash, de modo Texto desde nuestro PC o WORKSPACE, para operaciones básicas de administración de repositorios: configuración de usuario, creación, adicción y demás funciones de acuerdo a nuestro manual o Libro Guía.  
 
 ![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/EntornoGitBash0.png)  
 
@@ -118,7 +118,12 @@ Donde estaremos en nuestro PC, trabajando desde el ***`WORKSPACE`***, ***`STAGIN
 1. Ingresamos al etorno Git Bash  
 2. Se inicializa con con comando ***`git init`***  
 3. Configuración y personalización de Git  
-4. Crear un Archivo en mi carpeta  
+4. Verificación de archivos en nuestra carpeta  
+5. Crear una carpeta  
+6. Clonar una carpeta  
+7. Crear un Archivo en mi carpeta  
+8. Comentariar un Archivo en mi carpeta  
+9. Adicionar un Archivo en mi carpeta   
 
 
 #### 1. Ingresamos al etorno Git Bash  
@@ -129,10 +134,35 @@ Seleccionamos la carpeta donde vamos a guardar nuestros repositorios de manera l
 
 #### 2. Se inicializa con con comando ***`git init`*** 
 
-![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/EntornoGitBash2.png)  
+![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/EntornoGitBash3.png)  
 
 Se constata que este en ***`master`***  
 
 ![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/EntornoGitBash2.png)  
 
+#### 3. Configuración y personalización de Git  
 
+![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/EntornoGitBash5.png)  
+
+#### 4. Verificación de archivos en nuestra carpeta  
+
+![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/EntornoGitBash4.png)
+
+#### 5. Crear una carpeta  
+
+![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/EntornoGitBash6.png)  
+
+#### 6. Clonar una carpeta  
+![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/EntornoGitBash7.png) 
+
+#### 7. Crear un Archivo en mi carpeta  
+
+![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/EntornoGitBash8.png) 
+
+#### 8. Comentariar un Archivo en mi carpeta  
+
+![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/EntornoGitBash9.png)  
+
+#### 9. Adicionar un Archivo en mi carpeta  
+
+![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/EntornoGitBash10.png) 
