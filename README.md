@@ -311,3 +311,27 @@ Como podemos observarlo en el siguiente Video:
 [![Video de Git Hub](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/Video.png)](https://youtu.be/mIyGLZFu8Ps)
 
 <https://youtu.be/mIyGLZFu8Ps>
+
+### 11. Rastrear archivos nuevos con Git Hub  
+
+Para rastrear archivos nuevos en el Repositorio en Git Hub, utilizamos el comando ***`git add`***:  
+
+~~~  
+Rastrear Archivos Nuevos
+Para comenzar a rastrear un archivo debes usar el comando git add. Para comenzar a rastrear el archivo README, puedes ejecutar lo siguiente:
+
+$ git add README
+Ahora si vuelves a ver el estado del proyecto, verás que el archivo README está siendo rastreado y está preparado para ser confirmado:
+
+$ git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+    new file:   README
+Puedes ver que está siendo rastreado porque aparece luego del encabezado “Cambios a ser confirmados” (“Changes to be committed” en inglés). Si confirmas en este punto, se guardará en el historial la versión del archivo correspondiente al instante en que ejecutaste git add. Anteriormente cuando ejecutaste git init, ejecutaste luego git add (files) - lo cual inició el rastreo de archivos en tu directorio. El comando git add puede recibir tanto una ruta de archivo como de un directorio; si es de un directorio, el comando añade recursivamente los archivos que están dentro de él.  
+~~~  
+
+[Rastrear archivos nuevos con Git Hub](https://git-scm.com/book/es/v2/Fundamentos-de-Git-Guardando-cambios-en-el-Repositorio)  
+
+<https://git-scm.com/book/es/v2/Fundamentos-de-Git-Guardando-cambios-en-el-Repositorio> 
