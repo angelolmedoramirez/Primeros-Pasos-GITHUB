@@ -335,3 +335,5 @@ Puedes ver que está siendo rastreado porque aparece luego del encabezado “Cam
 [Rastrear archivos nuevos con Git Hub](https://git-scm.com/book/es/v2/Fundamentos-de-Git-Guardando-cambios-en-el-Repositorio)  
 
 <https://git-scm.com/book/es/v2/Fundamentos-de-Git-Guardando-cambios-en-el-Repositorio> 
+
+![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/Rastrear-Archivos-Nuevos.png)
