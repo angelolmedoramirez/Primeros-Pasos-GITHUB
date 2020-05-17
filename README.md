@@ -302,10 +302,12 @@ Ingreso al repositorio para verificar si se cargo el archivo que se empujo.
 ![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/push-pull15.jpeg)  
 ![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/push-pull16.jpeg)  
 
-Y se observa que corresponde al archivo seleccionado.
+Y se evidencia que corresponde al archivo seleccionado.
 
 ![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/push-pull17.jpeg)  
 
 [![Video de Git Hub](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/Video.png)](https://youtu.be/mIyGLZFu8Ps)
+
+Como podemos observarlo en el siguiente Video:
 
 <https://youtu.be/mIyGLZFu8Ps>
