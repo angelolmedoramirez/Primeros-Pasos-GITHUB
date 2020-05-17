@@ -25,8 +25,8 @@ Este procedimiento se realiza siguiendo algunos apartes del manual de instalaci�
 ### 1. Actualización del Avatar  
 
 En el lado superior derecho de la pantalla de la página, se encuentra una cajita para desplegar, y se selecciona ***`Tu Perfil`*** en español, o ***`Your Profile`*** en Inglés, como se muestra en la imagen.  
-![imagen abatar](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/Avatar.png)  
-![imagen abatar](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/avatar2.png)  
+![imagen avatar](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/Avatar.png)  
+![imagen avatar](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/avatar2.png)  
 
 Desde aquí, puede hacer clic en su imagen de avatar grande o en el botón Editar perfil.  
 En la pestaña Perfil , puede arrastrar y soltar su imagen desde una carpeta local o hacer clic en Cargar nueva imagen para cargar una nueva foto manualmente.  
