@@ -285,8 +285,20 @@ Se revisan los archivos en la carpeta del PC
 
 ![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/push-pull9.jpeg)  
 
-Y se revisa que el archivo que empujamos al repositorio se encuentre dentro de mi entorno GIYHUB
+En mi carpeta tengo prueba2.txt y lo voy a empujar.
 
 ![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/push-pull10.jpeg)  
 
+![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/push-pull11.jpeg)  
+![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/push-pull12.jpeg)  
+![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/push-pull13.jpeg)  
+![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/push-pull14.jpeg)  
 
+Ingreso al repositorio para verificar si se cargo el archivo que se empujo.  
+
+![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/push-pull15.jpeg)  
+![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/push-pull16.jpeg)  
+
+Y se observa que corresponde al archivo seleccionado.
+
+![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/push-pull17.jpeg)  
