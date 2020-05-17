@@ -23,6 +23,7 @@ Este procedimiento se realiza siguiendo algunos apartes del manual de instalaci�
 3. Invitar un Colaborador o Colaboradores  
 4. Subir Archivos o Carpeta con archivos  
 5. Clonar o Descargar un Repositorio  
+6. Trabajando con el entorno GIT  
 
 ### 1. Actualización del Avatar  
 
@@ -97,3 +98,41 @@ Despues de seleccionados y agregados los archivos a subir, agregamos los comenta
 Entonces, observamos que ya se encuentran los archivos dentro del repositorio.  
 
 ### 5. Clonar o Descargar un Repositorio  
+
+Para la clonación de o descarga de un Repositorio, se siguen los siguientes pasos:  
+1. Se selecciona el repositorio a descargar o clonar  
+2. Ingresar a la cajita de color verde que se encuentra a la derecha ***`Clone o Download`***, la seleccionamos  
+3. Podemos copiar la direccion de donde queremos descargar el archivo  
+4. la podemos descargar en nuestro PC o descargarla en formato .ZIP  
+
+![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/Clonar%20o%20descargar%20un%20repositorio.png)  
+
+### 6. Trabajando con el entorno GIT Bash  
+ 
+Realizaremos una serie de comandos en el entorno del GIT Bash, de modo Texto desde nuestro PC o WORKSPACE, para operaciones básicas de administración de repositorios  ( configuración de usuario, creación, adicción y demás funciones de acuerdo a nuestro manual o Libro Guía.  
+
+![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/EntornoGitBash0.png)  
+
+Donde estaremos en nuestro PC, trabajando desde el ***`WORKSPACE`***, ***`STAGING`***, ***`LOCAL REPOSITORY`***  y posteriormente agregar estos archivos a la nube o a mi GITHUB, mediante comandos ***`PULL`*** y ***`PUSH`***.  
+
+1. Ingresamos al etorno Git Bash  
+2. Se inicializa con con comando ***`git init`***  
+3. Configuración y personalización de Git  
+4. Crear un Archivo en mi carpeta  
+
+
+#### 1. Ingresamos al etorno Git Bash  
+
+Seleccionamos la carpeta donde vamos a guardar nuestros repositorios de manera local, con click derecho y seleccionamos abrir con Git Bash.  
+
+![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/EntornoGitBash1.png)  
+
+#### 2. Se inicializa con con comando ***`git init`*** 
+
+![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/EntornoGitBash2.png)  
+
+Se constata que este en ***`master`***  
+
+![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/EntornoGitBash2.png)  
+
+
