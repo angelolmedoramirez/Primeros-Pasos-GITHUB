@@ -306,4 +306,6 @@ Y se observa que corresponde al archivo seleccionado.
 
 ![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/push-pull17.jpeg)  
 
+[![Video de Git Hub](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/Video.png)](https://youtu.be/mIyGLZFu8Ps)
+
 <https://youtu.be/mIyGLZFu8Ps>
