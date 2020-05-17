@@ -305,3 +305,5 @@ Ingreso al repositorio para verificar si se cargo el archivo que se empujo.
 Y se observa que corresponde al archivo seleccionado.
 
 ![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/push-pull17.jpeg)  
+
+<https://youtu.be/mIyGLZFu8Ps>
