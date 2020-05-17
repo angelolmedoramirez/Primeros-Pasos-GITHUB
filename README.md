@@ -4,7 +4,7 @@
 - ***Andres Felipe Mora***  
 - ***Jorge Enrique Polo Arias***  
 - ***Angel Olmedo Ramirez Olaya*** 
---- 
+---  
 
 ## Profesor: ***Ingeniero Jaider  Ospina Navas***  
 ---  
@@ -24,7 +24,7 @@ Este procedimiento se realiza siguiendo algunos apartes del manual de instalaci�
 4. Subir Archivos o Carpeta con archivos  
 5. Clonar o Descargar un Repositorio  
 6. Trabajando con el entorno GIT  
----
+---  
 ### 1. Actualización del Avatar  
 
 En el lado superior derecho de la pantalla de la página, se encuentra una cajita para desplegar, y se selecciona ***`Tu Perfil`*** en español, o ***`Your Profile`*** en Inglés, como se muestra en la imagen.  
@@ -33,7 +33,7 @@ En el lado superior derecho de la pantalla de la página, se encuentra una cajit
 
 Desde aquí, puede hacer clic en su imagen de avatar grande o en el botón Editar perfil.  
 En la pestaña Perfil , puede arrastrar y soltar su imagen desde una carpeta local o hacer clic en Cargar nueva imagen para cargar una nueva foto manualmente.  
----
+---  
 ### 2. Crear un nuevo repositorio  
 
 En el lado superior derecho de la pantalla de la página, se encuentra una cajita para desplegar, y se selecciona ***`Sus Repositorios`*** en español, o ***`Your Repositories`*** en Inglés, como se muestra en la imagen. 
@@ -51,7 +51,7 @@ Ingresa a una Ventana de crear un nuevo repositorio, con las siguientes caracter
 5. Adicionar la licencia, en este caso seleccionamos `APACHE 2.0`  
 
 ![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/repositorio2.png)  
----
+---  
 ### 3. Invitar un colaborador o colaboradores
 
 Para invitar a colaborar en mis repositorios, primero escogemos el repositorio a compartir, se selecciona de la siguiente manera:  
@@ -80,7 +80,7 @@ se confirma y automaticamente se envía una invitación al correo electrónico d
 ![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/Invitar%20colaborador7.png) 
 
 Y así, el invitado puede ingresar a mis repositorios y realizar, cambios o modificaiones.  
----
+---  
 ### 4. Subir Archivos o Carpeta con archivos  
 
 En el repositorio, en la pestaña de ***`UPLOAD FILES`***, seleccionamos.  
@@ -96,7 +96,7 @@ Despues de seleccionados y agregados los archivos a subir, agregamos los comenta
 ![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/subir%20archivos3.png)
 
 Entonces, observamos que ya se encuentran los archivos dentro del repositorio.  
----
+---  
 ### 5. Clonar o Descargar un Repositorio  
 
 Para la clonación de o descarga de un Repositorio, se siguen los siguientes pasos:  
@@ -107,7 +107,7 @@ Para la clonación de o descarga de un Repositorio, se siguen los siguientes pas
 
 ![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/Clonar%20o%20descargar%20un%20repositorio.png)  
 
----
+---  
 ### 6. Trabajando con el entorno GIT Bash  
  
 Realizaremos una serie de comandos en el entorno del GIT Bash, de modo Texto desde nuestro PC o WORKSPACE, para operaciones básicas de administración de repositorios: configuración de usuario, creación, adicción y demás funciones de acuerdo a nuestro manual o Libro Guía.  
