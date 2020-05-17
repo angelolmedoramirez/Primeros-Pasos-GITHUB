@@ -125,7 +125,7 @@ Donde estaremos en nuestro PC, trabajando desde el ***`WORKSPACE`***, ***`STAGIN
 7.  Crear un Archivo en mi carpeta  
 8.  Comentariar un Archivo en mi carpeta  
 9.  Adicionar un Archivo en mi carpeta  
-10. Llevar Repositorio a GITHUB con PULL y PUSH  
+10. Llevar un archivo desde el PC al Repositorio de GITHUB con PULL y PUSH   
 
 #### 1. Ingresamos al etorno Git Bash  
 
@@ -172,7 +172,10 @@ Se constata que este en ***`master`***
 
 ![imagen Repositorio1](https://raw.githubusercontent.com/angelolmedoramirez/Primeros-Pasos-GITHUB/master/Imagenes%20Repositorio/EntornoGitBash10.png)  
 
-### 10. Llevar Repositorio a GITHUB con PULL y PUSH  
+### 10. Llevar un archivo desde el PC al Repositorio de GITHUB con PULL y PUSH  
+
+Procedimiento escrito desde el ***`Git Bash`***:
+
 ~~~
 JEPA134@DESKTOP-8KN07K8 MINGW64 /f/REPOS_JORGE  
 $ ls  
